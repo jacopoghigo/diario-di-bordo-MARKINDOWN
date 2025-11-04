@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.25)  4 NOV 2025 12:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.25)  4 NOV 2025 12:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -521,7 +521,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has b
                    \relax 
 l.181 
        [2]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 188--211
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 190--213
  [][] 
  []
 
@@ -531,68 +531,68 @@ Overfull \hbox (1.60178pt too wide) in paragraph at lines 188--211
 pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.212 
+l.214 
        [3]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 219--242
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 230--253
  [][] 
  []
 
 
 
 [4]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 250--273
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 261--284
  [][] 
  []
 
 
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 282--305
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 293--316
  [][] 
  []
 
 
 
 [5]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 314--337
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 325--348
  [][] 
  []
 
 
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 344--367
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 355--378
  [][] 
  []
 
 
 
 [6]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 376--399
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 387--410
  [][] 
  []
 
 
 
 [7]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 406--429
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 417--440
  [][] 
  []
 
 
 
 [8]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 436--459
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 447--470
  [][] 
  []
 
 
 
 [9]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 467--490
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 478--501
  [][] 
  []
 
 
 
 [10]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 497--520
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 508--531
  [][] 
  []
 
@@ -617,7 +617,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  76i,10n,79p,865b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\jacop\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\jacop\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "diario di bordo.pdf" (15 pages, 105151 bytes).
+Output written on "diario di bordo.pdf" (15 pages, 105662 bytes).
 PDF statistics:
  129 PDF objects out of 1000 (max. 8388607)
  30 named destinations out of 1000 (max. 500000)
