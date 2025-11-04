@@ -7,8 +7,8 @@
 \setstretch{1.2}
 
 % Citations (natbib)
-\usepackage[round,sort&compress]{natbib}
-\setcitestyle{authoryear,open={(},close={)},citesep={,},aysep={,},yysep={,}}
+%\usepackage[round,sort&compress]{natbib}
+%\setcitestyle{authoryear,open={(},close={)},citesep={,},aysep={,},yysep={,}}
 
 % Math packages
 \usepackage{amsmath}
@@ -21,6 +21,9 @@
 
 % Float package for table positioning
 \usepackage{float}
+
+% Package for creating boxes
+\usepackage{mdframed}
 
 % Links (load AFTER apacite)
 \usepackage[dvipsnames]{xcolor}
@@ -42,8 +45,8 @@
 \predate{\begin{center}\par\vspace{0.25em}\normalsize} % tiny gap before date
 \postdate{\par\end{center}} % close center
 
-\title{DIARIO DI BORDO \\ MARKINDOWN (Prof. \citet{boeri_tito_can_nodate})}
-\author{Jacopo Ghigo}            % keep empty
+\title{DIARIO DI BORDO \\ MARKINDOWN}
+\author{}            % keep empty
 \date{\today}        % will appear right under the title
 
 \begin{document}
@@ -52,11 +55,55 @@
 \thispagestyle{empty}
 
 \newpage
+\thispagestyle{empty}
+
+
+
+
+\newpage
+\tableofcontents
+\thispagestyle{empty}
+
+\newpage
+
+\section{Suggestions and Ideas}
+
+\newpage
 \setcounter{page}{1}
 
-\section*{Validity of Noncompete clauses}
+\section{Validity of Noncompete clauses}
 
 We want to explore whether there is some interesting correlation between the mismatch betweeen worker and employer incidence values, and the validity of the Noncompete clauses reported. By exploiting an elaboration from OECD on the legislative framework of the countries of our dataset, we seek to create one dummy variable for each country, indicating whether the clause is legal or not(or whether it is ambiguous). The first step is to lie down, if available, relevant criteria that can be cross-checked within out dataset, in order to create such dummies. In the following list we report, for each country, the information that we have on the legal framework, and we proposed the parameters that we can use to create the dummies.
+
+\subsubsection*{Canada}
+
+\begin{table}[H]
+\centering
+\small
+\begin{tabular}{|p{0.35\textwidth}|p{0.6\textwidth}|}
+\hline
+\textbf{Dimension/Question} & \textbf{Short answer} \\
+\hline
+1. Statute of general applicability & No federal statute regulates the use of non-compete clauses in Canada (two out of the ten Canadian provinces regulate the use of non-compete clauses by law). \\
+\hline
+2. Role of collective agreements & Preliminary evidence indicates that some collective agreements may play a role in regulating the use of non-compete clauses at the firm level. \\
+\hline
+3. Employer's protectable interest & A non-compete clause is void and unenforceable, unless the employer has a "real proprietary interest" (such as trade secrets, confidential information, and customer lists). \\
+\hline
+4. Compensation & Compensation is not formally required. \\
+\hline
+5. Change in terms/continued employment sufficient consideration & There must be a new "fresh mutual consideration". \\
+\hline
+6. Plaintiff burden of proof & Non-compete must be reasonable \\
+\hline
+7. Modification or blue pencil & Courts generally do not amend or modify an ambiguous or overly broad non-compete; however, courts have sometimes accepted that "blue-pencil" severance may be applied in limited circumstances. \\
+\hline
+8. Enforceability in case of dismissal & Courts have ruled that when an employer commits a regulatory breach of an employment contract (e.g. a wrongful dismissal), the employee will be released from the obligations of a non-compete clause. \\
+\hline
+9. Sanctions & (Except for Ontario) there are no explicit penalties, fines or other sanctions for employers using overly broad or unenforceable agreements. \\
+\hline
+\end{tabular}
+\end{table}
 
 \subsubsection*{Belgium}
 
@@ -367,9 +414,100 @@ We want to explore whether there is some interesting correlation between the mis
 \end{tabular}
 \end{table}
 
+\subsubsection*{Sweden}
 
-\newpage
-\bibliographystyle{plainnat}
-\bibliography{biblio}
+\begin{table}[H]
+\centering
+\small
+\begin{tabular}{|p{0.35\textwidth}|p{0.6\textwidth}|}
+\hline
+\textbf{Dimension/Question} & \textbf{Short answer} \\
+\hline
+1. Statute of general applicability & Swedish Contracts Act (sections 36 and 38). Maximum duration 9/18 months (longer under special circumstances). \\
+\hline
+2. Role of collective agreements & Within the general framework defined by the Contracts Act, the 2015 collective bargaining agreements plays a pivotal role in regulating the use of non-compete clauses. \\
+\hline
+3. Employer's protectable interest & Agreement that prevent competition (meaning either to prohibit the engagement in a type of business or to not take up employment) shall not be more extensive than may be considered reasonable having regard to the need to access to trade secrets that can be used as a mean of competition. \\
+\hline
+4. Compensation & Employer must pay up to 60\% of the employee's previous salary, or a lower amount if the employee earns a salary from non-competing work. \\
+\hline
+5. Change in terms/continued employment sufficient consideration & No specified circumstances, but employees need to agree to sign the agreement. \\
+\hline
+6. Plaintiff burden of proof & Non-compete must be reasonable, within certain boundaries set by the regulatory framework (including wage thresholds). \\
+\hline
+7. Modification or blue pencil & Courts may adjust or disregard a non-compete agreement if it is not considered reasonable. \\
+\hline
+8. Enforceability in case of dismissal & Courts have held that noncompetes are enforceable only when an employer wants to retain the employee in their company, thus making them unenforceable if, for example, the employee is dismissed due to redundancy. \\
+\hline
+9. Sanctions & Employers are not subject to sanctions if they use unenforceable non-compete clauses \\
+\hline
+\end{tabular}
+\end{table}
+
+
+\subsubsection*{Switzerland}
+
+\begin{table}[H]
+\centering
+\small
+\begin{tabular}{|p{0.35\textwidth}|p{0.6\textwidth}|}
+\hline
+\textbf{Dimension/Question} & \textbf{Short answer} \\
+\hline
+1. Statute of general applicability & Code of Obligations (Article 340 and following) regulates non-compete clauses. Maximum duration is 3 years. \\
+\hline
+2. Role of collective agreements & A preliminary analysis of some collective agreements indicates that they contain rules on the prohibition of competition; however, they refer in general to the rules of the Code of Obligations. \\
+\hline
+3. Employer's protectable interest & An employee can sign a written agreement whereby they refrain from competing as long as the employment relationship allows the employee to gain knowledge about employer's clients, methods of production and trade secrets and such knowledge might cause the employer substantial harm. \\
+\hline
+4. Compensation & Courts apply a reasonableness test. \\
+\hline
+5. Change in terms/continued employment sufficient consideration & No specified circumstances, but employees need to agree to sign the agreement \\
+\hline
+6. Plaintiff burden of proof & Non-compete must be reasonable, within certain boundaries set by the regulatory framework \\
+\hline
+7. Modification or blue pencil & Following Article 340a of the Code of Obligations, courts tend to limit the scope of the restriction when the agreement is overbroad. \\
+\hline
+8. Enforceability in case of dismissal & At termination, employers can unilaterally release employees; however, when obligations are bilateral (e.g., the employee is entitled to receive a compensation) the parties must agree to the release, unless the written agreement provide otherwise. Moreover, Article 340c provides that the restriction on competition is extinguished once the employer demonstrably no longer has a substantial interest in its continuation", as well as when the employer terminates the employment relationship without good cause or if the employee terminates the employment relationship with good cause. \\
+\hline
+9. Sanctions & Employers are not subject to sanctions if they use unenforceable non-compete clauses \\
+\hline
+\end{tabular}
+\end{table}
+
+\subsubsection*{United Kingdom}
+
+\begin{table}[H]
+\centering
+\small
+\begin{tabular}{|p{0.35\textwidth}|p{0.6\textwidth}|}
+\hline
+\textbf{Dimension/Question} & \textbf{Short answer} \\
+\hline
+1. Statute of general applicability & Common law courts have assessed the reasonableness of non-compete clauses agreements. \\
+\hline
+2. Role of collective agreements & There is no indication of collective agreements playing a role in regulating non-compete clauses. \\
+\hline
+3. Employer's protectable interest & The covenant must protect legitimate employers' interests such as a customer base and trade secrets. \\
+\hline
+4. Compensation & For a new employee, the offer of employment (plus salary and benefits) is deemed sufficient consideration for entering a non-compete. \\
+\hline
+5. Change in terms/continued employment sufficient consideration & For existing employees, non-compete clauses require additional consideration, such as a pay rise or new benefits, and continued employment is not sufficient. \\
+\hline
+6. Plaintiff burden of proof & Non-compete must be reasonable \\
+\hline
+7. Modification or blue pencil & Courts render non-compete clauses void when they are unreasonable and do not rewrite the covenant to render it enforceable. However, courts apply the blue pencil test when the unenforceable provision of the clause can be removed without the need for adding to or modifying the wording. \\
+\hline
+8. Enforceability in case of dismissal & The enforceability of a non-compete is not linked to the reason for the termination of the employment relationship. The circumstances of the dismissal might play a role in how courts grant the remedies in the specific case (e.g., if the employee is unfairly dismissed, courts might be less willing to grant an injunctive relief) \\
+\hline
+9. Sanctions & Employers are not subject to sanctions if they use unenforceable non-compete clauses \\
+\hline
+\end{tabular}
+\end{table}
+
+
+%\newpage
+%\bibliographystyle{plainnat}
+%\bibliography{}
 
 \end{document}
