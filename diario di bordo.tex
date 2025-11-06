@@ -71,6 +71,18 @@
 \newpage
 
 
+\section{Incidence by Type of Worker}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=1.0\textwidth]{Images/ncc_by_worker_type.png}
+\caption{Non-compete clauses by worker type}
+\label{fig:ncc_by_worker_type}
+\end{figure}
+
+
+
+
 \section{Validity of Noncompete clauses}
 
 We want to explore whether there is some interesting correlation between the mismatch betweeen worker and employer incidence values, and the validity of the Noncompete clauses reported. By exploiting an elaboration from OECD on the legislative framework of the countries of our dataset, we seek to create one dummy variable for each country, indicating whether the clause is legal or not(or whether it is ambiguous). The first step is to lie down, if available, relevant criteria that can be cross-checked within out dataset, in order to create such dummies. In the following list we report, for each country, the information that we have on the legal framework, and we proposed the parameters that we can use to create the dummies.
@@ -252,6 +264,12 @@ Based on this information, I could create a dummy for Germany == 1 if:
 \end{tabular}
 \end{table}
 
+Based on this information, I could create a dummy for Japan == 1 if:
+\begin{itemize}
+    
+    \item Compensation present
+
+\end{itemize}
 
 \subsubsection*{Korea}
 
@@ -377,7 +395,12 @@ Based on this information, I could create a dummy for Germany == 1 if:
 \end{tabular}
 \end{table}
 
+Based on this information, I could create a dummy for Poland == 1 if:
+\begin{itemize}
+    
+    \item Compensation present
 
+\end{itemize}
 
 \subsubsection*{Portugal}
 
@@ -409,6 +432,14 @@ Based on this information, I could create a dummy for Germany == 1 if:
 \end{tabular}
 \end{table}
 
+Based on this information, I could create a dummy for Portugal == 1 if:
+\begin{itemize}
+    
+    \item Maximum duration: 24 months
+    \item Compensation present
+
+\end{itemize}
+
 \subsubsection*{Spain}
 
 \begin{table}[H]
@@ -438,6 +469,14 @@ Based on this information, I could create a dummy for Germany == 1 if:
 \hline
 \end{tabular}
 \end{table}
+
+Based on this information, I could create a dummy for Spain == 1 if:
+\begin{itemize}
+
+    \item Maximum duration: 24 months for technical employees, 6 months for other workers
+    \item Compensation present
+
+\end{itemize}
 
 \subsubsection*{Sweden}
 
@@ -469,6 +508,13 @@ Based on this information, I could create a dummy for Germany == 1 if:
 \end{tabular}
 \end{table}
 
+Based on this information, I could create a dummy for Sweden == 1 if:
+\begin{itemize}
+    
+    \item Maximum duration: 18 months
+    \item Compensation present
+
+\end{itemize}
 
 \subsubsection*{Switzerland}
 
@@ -499,6 +545,14 @@ Based on this information, I could create a dummy for Germany == 1 if:
 \hline
 \end{tabular}
 \end{table}
+
+Based on this information, I could create a dummy for Switzerland == 1 if:
+\begin{itemize}
+    
+    \item Maximum duration: 36 months
+    
+
+\end{itemize}
 
 \subsubsection*{United Kingdom}
 

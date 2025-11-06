@@ -164,6 +164,13 @@ INPUT .\diario di bordo.toc
 INPUT diario di bordo.toc
 INPUT C:\Users\jacop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 OUTPUT diario di bordo.toc
+INPUT .\Images\ncc_by_worker_type.png
+INPUT .\Images\ncc_by_worker_type.png
+INPUT .\Images\ncc_by_worker_type.png
+INPUT .\Images\ncc_by_worker_type.png
+INPUT .\Images\ncc_by_worker_type.png
+INPUT .\Images\ncc_by_worker_type.png
+INPUT .\Images\ncc_by_worker_type.png
 INPUT C:\Users\jacop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\jacop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\jacop\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd

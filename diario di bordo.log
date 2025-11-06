@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.25)  4 NOV 2025 14:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.25)  6 NOV 2025 15:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -484,20 +484,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
                    \relax 
 l.71 \newpage
               [1]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 83.
+<Images/ncc_by_worker_type.png, id=34, 1799.523pt x 1108.6218pt>
+File: Images/ncc_by_worker_type.png Graphic file (type png)
+<use Images/ncc_by_worker_type.png>
+Package pdftex.def Info: Images/ncc_by_worker_type.png  used on input line 78.
+(pdftex.def)             Requested size: 448.07378pt x 276.0383pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 95.
  (C:\Users\jacop\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 83.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 95.
  (C:\Users\jacop\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 83--106
- [][] 
- []
-
-
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 118--141
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 95--118
  [][] 
  []
 
@@ -507,114 +507,123 @@ Overfull \hbox (1.60178pt too wide) in paragraph at lines 118--141
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.142 
-       [2]
-Underfull \hbox (badness 1077) in paragraph at lines 171--172
-[]\OT1/cmr/m/n/10 Non-compete clauses must be rea-son-able, within cer-tain
- []
-
-
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 157--180
+l.119 
+       [2 <./Images/ncc_by_worker_type.png>]
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 130--153
  [][] 
  []
 
 
 
 [3]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 190--213
+Underfull \hbox (badness 1077) in paragraph at lines 183--184
+[]\OT1/cmr/m/n/10 Non-compete clauses must be rea-son-able, within cer-tain
+ []
+
+
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 169--192
  [][] 
  []
 
 
 
 [4]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 230--253
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 202--225
  [][] 
  []
 
 
 
 [5]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 261--284
- [][] 
- []
-
-
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 293--316
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 242--265
  [][] 
  []
 
 
 
 [6]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 325--348
- [][] 
- []
-
-
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 355--378
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 279--302
  [][] 
  []
 
 
 
 [7]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 387--410
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 311--334
+ [][] 
+ []
+
+
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 343--366
  [][] 
  []
 
 
 
 [8]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 417--440
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 373--396
  [][] 
  []
 
 
 
 [9]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 447--470
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 410--433
  [][] 
  []
 
 
 
 [10]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 478--501
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 448--471
  [][] 
  []
 
 
 
 [11]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 508--531
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 486--509
  [][] 
  []
 
 
 
 [12]
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 524--547
+ [][] 
+ []
 
-[13] (diario di bordo.aux)
+
+
+[13]
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 562--585
+ [][] 
+ []
+
+
+
+[14]
+
+[15] (diario di bordo.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
  ***********
 Package rerunfilecheck Info: File `"diario di bordo".out' has not changed.
-(rerunfilecheck)             Checksum: 6A3098D17670617E0075CE0343C22F34;356.
+(rerunfilecheck)             Checksum: 297260DB0BDD895AD208EB435CE72636;546.
  ) 
 Here is how much of TeX's memory you used:
- 11860 strings out of 468130
- 188001 string characters out of 5430633
- 630069 words of memory out of 5000000
- 40274 multiletter control sequences out of 15000+600000
+ 11878 strings out of 468130
+ 188410 string characters out of 5430633
+ 629125 words of memory out of 5000000
+ 40288 multiletter control sequences out of 15000+600000
  635069 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  76i,10n,79p,865b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\jacop\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\jacop\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "diario di bordo.pdf" (15 pages, 105450 bytes).
+Output written on "diario di bordo.pdf" (17 pages, 239691 bytes).
 PDF statistics:
- 131 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
- 17 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 148 PDF objects out of 1000 (max. 8388607)
+ 35 named destinations out of 1000 (max. 500000)
+ 30 words of extra memory for PDF output out of 10000 (max. 10000000)
 

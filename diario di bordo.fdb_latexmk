@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1762262818.29787 "c:/Users/jacop/Dropbox/ERC-MONOPSONIES/overleaf/diario-di-bordo---MARKINDOWN/diario di bordo.tex" "diario di bordo.pdf" "diario di bordo" 1762262819.26035 0
-  "C:/Users/jacop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1762252709 81068 299f700eb05b1217173e62b88b513bd0 ""
+["pdflatex"] 1762440484.13128 "c:/Users/jacop/Dropbox/ERC-MONOPSONIES/overleaf/diario-di-bordo---MARKINDOWN/diario di bordo.tex" "diario di bordo.pdf" "diario di bordo" 1762440487.08665 0
+  "C:/Users/jacop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1762263802 81247 50d52f6487769ef97fe2dc7d59ae1563 ""
   "C:/Users/jacop/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1762255462 11548 012cc75c5fde91943728117b8019b071 ""
   "C:/Users/jacop/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1762250722 12668 0d293007c707e241d4fe2654d57717ab ""
   "C:/Users/jacop/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1758806476 13286966 9b1e14b04ff872186c0241c4c8382aff ""
@@ -96,11 +96,12 @@
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
-  "c:/Users/jacop/Dropbox/ERC-MONOPSONIES/overleaf/diario-di-bordo---MARKINDOWN/diario di bordo.tex" 1762262816 28241 7ec2473532d376138092ee77e8a2fc0b ""
-  "diario di bordo.aux" 1762262819 443 acd755290d8810498d5823ee62dcc9df "pdflatex"
-  "diario di bordo.out" 1762262819 356 6a3098d17670617e0075ce0343c22f34 "pdflatex"
-  "diario di bordo.tex" 1762262816 28241 7ec2473532d376138092ee77e8a2fc0b ""
-  "diario di bordo.toc" 1762262819 163 ac00dcdd9bf4880fe94eae64a00a7ec0 "pdflatex"
+  "Images/ncc_by_worker_type.png" 1761775420 153978 914a62f8193318e036e88842921dbfb4 ""
+  "c:/Users/jacop/Dropbox/ERC-MONOPSONIES/overleaf/diario-di-bordo---MARKINDOWN/diario di bordo.tex" 1762440485 29528 97877f01bddf67707fb2ab49e69302ae ""
+  "diario di bordo.aux" 1762440486 802 af640d556749e5c3ee8c170f1dc7f548 "pdflatex"
+  "diario di bordo.out" 1762440486 546 297260db0bdd895ad208eb435ce72636 "pdflatex"
+  "diario di bordo.tex" 1762440485 29528 97877f01bddf67707fb2ab49e69302ae ""
+  "diario di bordo.toc" 1762440486 246 d872b49e71c41acf29067e8ed5b9a8f5 "pdflatex"
   (generated)
   "diario di bordo.aux"
   "diario di bordo.log"
