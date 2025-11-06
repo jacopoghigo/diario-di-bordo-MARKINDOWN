@@ -1,3 +1,4 @@
 \contentsline {section}{\numberline {1}Suggestions and Ideas}{1}{section.1}%
 \contentsline {section}{\numberline {2}Incidence by Type of Worker}{2}{section.2}%
 \contentsline {section}{\numberline {3}Validity of Noncompete clauses}{2}{section.3}%
+\contentsline {subsubsection}{\numberline {3.0.1}Conclusions}{15}{subsubsection.3.0.1}%

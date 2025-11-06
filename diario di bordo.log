@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.25)  6 NOV 2025 15:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.25)  6 NOV 2025 17:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -470,7 +470,15 @@ Package hyperref Info: Link coloring ON on input line 52.
 
 [1
 
-{C:/Users/jacop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (diario di bordo.toc)
+{C:/Users/jacop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (diario di bordo.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+ (C:\Users\jacop\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+ (C:\Users\jacop\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 \tf@toc=\write4
 \openout4 = `"diario di bordo.toc"'.
 
@@ -484,19 +492,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
                    \relax 
 l.71 \newpage
               [1]
-<Images/ncc_by_worker_type.png, id=34, 1799.523pt x 1108.6218pt>
+<Images/ncc_by_worker_type.png, id=39, 1799.523pt x 1108.6218pt>
 File: Images/ncc_by_worker_type.png Graphic file (type png)
 <use Images/ncc_by_worker_type.png>
 Package pdftex.def Info: Images/ncc_by_worker_type.png  used on input line 78.
 (pdftex.def)             Requested size: 448.07378pt x 276.0383pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 95.
- (C:\Users\jacop\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 95.
- (C:\Users\jacop\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
+
 Overfull \hbox (1.60178pt too wide) in paragraph at lines 95--118
  [][] 
  []
@@ -528,75 +529,75 @@ Overfull \hbox (1.60178pt too wide) in paragraph at lines 169--192
 
 
 [4]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 202--225
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 208--231
  [][] 
  []
 
 
 
 [5]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 242--265
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 248--271
  [][] 
  []
 
 
 
 [6]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 279--302
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 285--308
  [][] 
  []
 
 
 
 [7]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 311--334
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 317--340
  [][] 
  []
 
 
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 343--366
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 349--372
  [][] 
  []
 
 
 
 [8]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 373--396
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 379--402
  [][] 
  []
 
 
 
 [9]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 410--433
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 416--439
  [][] 
  []
 
 
 
 [10]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 448--471
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 454--477
  [][] 
  []
 
 
 
 [11]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 486--509
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 492--515
  [][] 
  []
 
 
 
 [12]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 524--547
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 530--553
  [][] 
  []
 
 
 
 [13]
-Overfull \hbox (1.60178pt too wide) in paragraph at lines 562--585
+Overfull \hbox (1.60178pt too wide) in paragraph at lines 568--591
  [][] 
  []
 
@@ -604,26 +605,31 @@ Overfull \hbox (1.60178pt too wide) in paragraph at lines 562--585
 
 [14]
 
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 593.
+
+
+
 [15] (diario di bordo.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
  ***********
 Package rerunfilecheck Info: File `"diario di bordo".out' has not changed.
-(rerunfilecheck)             Checksum: 297260DB0BDD895AD208EB435CE72636;546.
+(rerunfilecheck)             Checksum: 461CC9A2FC827A254CA9B8D908357F7C;663.
  ) 
 Here is how much of TeX's memory you used:
- 11878 strings out of 468130
- 188410 string characters out of 5430633
- 629125 words of memory out of 5000000
- 40288 multiletter control sequences out of 15000+600000
+ 11880 strings out of 468130
+ 188450 string characters out of 5430633
+ 629138 words of memory out of 5000000
+ 40289 multiletter control sequences out of 15000+600000
  635069 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  76i,10n,79p,865b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\jacop\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\jacop\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "diario di bordo.pdf" (17 pages, 239691 bytes).
+Output written on "diario di bordo.pdf" (17 pages, 241202 bytes).
 PDF statistics:
- 148 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 500000)
- 30 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 153 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
