@@ -94,9 +94,16 @@ We want to explore whether there is some interesting correlation between the mis
 
 \subsection{Literature}
 
-\cite{starr_behavioral_2020} study how unenforceable contractual provisions may affect behaviour.
+\cite{starr_behavioral_2020} study how unenforceable contractual provisions may affect behaviour. Even in states that
+do not enforce noncompetes, employees who agree to be bound by such provisions show generally
+lower mobility levels and evince redirection toward noncompetitors. Decomposing mobility into job offer generation and acceptance, the study detected no evidence of differences in job search, recruitment, or offer activity associated with non-competes. Rather, the effect occurs at the job offer acceptance stage—workers turn down opportunities they otherwise would have accepted.
 
+\cite{prescott_subjective_2024} show that an information treatment that roughly simulates aneducational campaign can cause employees to update their beliefs aboutenforceability—especially when noncompetes are actually unenforceable.After receiving information, employees with an unenforceable noncom-pete report that their noncompete would be less of a factor in choosingwhether to accept employment with a competitor than they do when theymistakenly believe ex ante that their noncompete is enforceable. However,employees as a group do not fully adjust their mobility intentions (that is,they do not report that their noncompete would no longer matter). In fact,a nontrivial fraction of employees who see their noncompete as unenforce-able and who view a lawsuit as unlikely continue to consider their non-compete to be a factor in deciding whether to take a job offer at a compet-itor. This result suggests that moral, reputational, and perhaps financialcosts remain for violating even entirely unenforceable contract provisions.
 
+\cite{boeri_non-compete_2023} find that unenforceable clauses, i.e. clauses that are more likely to be used
+just to deter workers from moving and not to protect business interests, go hand-in-hand with lower
+wages compared to likely enforceable ones. On the opposite, they are not associated to higher or lower
+training opportunities.
 
 \subsubsection*{Canada}
 
@@ -163,6 +170,20 @@ I don't have enough information to create a dummy identifying legal NCCs in Cana
 \end{tabular}
 \end{table}
 
+\cite{hendrickx_non-compete_2022} established that noncompete shall be deemed non-existent when the annual salary does not exceed 36,201 Euro. If the salary is included between 36,201 and 72,402, the clause is valid only if the post is determined by a collective bargaining agreement. 
+The clause must be included in a written document. 
+It must relate to similar activities: it cannot contain only wordings such as: ``prohibition on entering the service of a competitor''. 
+The NCA must be geographically limtied to the places where the employee can actually compete with the employer, given the nature of the business and its radius. It must NOT extend beyond national territory. 
+The NCA cannot last longer than 12 months. 
+The NCA must contain a compensation to the employee. The minimum amount of this indemntity is equal to half of the worker's gross salary corresponding to the period of application of the noncompete clause. 
+Finally, \cite{hendrickx_non-compete_2022} specifies that for some white collar workers, it is possible to deviate form the above mentioned conditions. The two following conditions must hold:
+\begin{itemize}
+    \item The company must have an international field of activity or significant economic, technical or financial interests in international amrkets; or
+    \item It must have its own research department. 
+\end{itemize}
+
+Basically, if such employees can acquire specific knowledge or skills, the NCA can restrain the worker from being employed also outside the national territory, and for longer than 12 months. 
+
 Based on this information, I could create a dummy for Belgium == 1 if:
 \begin{itemize}
     \item Duration $\leq$ 12 months
@@ -201,6 +222,10 @@ Based on this information, I could create a dummy for Belgium == 1 if:
 \hline
 \end{tabular}
 \end{table}
+
+
+
+
 
 Based on this information, I could create a dummy for France == 1 if:
 \begin{itemize}
@@ -241,6 +266,29 @@ Based on this information, I could create a dummy for France == 1 if:
 \end{tabular}
 \end{table}
 
+According to \cite{magotsch_chapter_2018} (further evidence can be found here \cite{maron_10_2022}), the law in relation to noncompetition clauses is regulated by the Commercial Code, which sets out detailed requirements for the validity of NCAs.
+NCAs must be in written form and signed by both parties. The clause must make provision for a compensation payment in relation to the whole length of a noncompete, regardless of the extent of its application to the branch or business of the employer. Interestingly,  If the compensation payment as stipulated in the contract does not meet the minimum statutory requirements, the
+employee has a choice whether or not to comply with the non-competition clause. When the employee chooses not to comply, the clause is not enforceable by the
+employer. In case the employee decides to comply, the employer must pay the
+compensation payment as stipulated. 
+the employee should receive a monthly payment of at least half of his former gross earnings. 
+A non-competition clause can only have effect to protect the legitimate interests of
+the employer. The courts have developed the following criteria from this
+requirement:
+
+\begin{itemize}
+    \item Sector and geographical area: Case law has shown that a non-competition clause
+that is extended beyond the sector of the employer is too broad, as is a worldwide
+clause. In such cases the courts will adjust the clause. The adjusted clause will
+still be enforceable and the employer will therefore still have to pay the compensation payment
+\item Length of non-competition clause: Non-competition clauses can only be binding
+for a period of up to 2 years. If a longer period has been agreed between the
+parties, after 2 years the employee will have the choice of continuing to comply
+with the non-competition clause and receiving a compensation payment, or
+ceasing to comply and entering into competition.
+\end{itemize}
+
+
 
 Based on this information, I could create a dummy for Germany == 1 if:
 \begin{itemize}
@@ -280,6 +328,10 @@ Based on this information, I could create a dummy for Germany == 1 if:
 \hline
 \end{tabular}
 \end{table}
+
+\cite{ueda_restrictions_2018} posits that courts seem to understand that a standard reasonable term of restrictive covenants is two years or shorter. 
+In Japan, courts have enforced covenants with no geographical limitation at all, as long as other elements remained within a reasonable range. 
+As a general rule, Japanese contract law does not require contracting parties to supply any consideration to enforce their promise, and courts seem to regard compensatory measures element as a flexible notion.  
 
 Based on this information, I could create a dummy for Japan == 1 if:
 \begin{itemize}
