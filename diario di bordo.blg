@@ -5,44 +5,44 @@ Reallocating 'name_of_file' (item size: 1) to 9 items.
 The style file: plainnat.bst
 Reallocating 'name_of_file' (item size: 1) to 16 items.
 Database file #1: OECD_ERC_Survey.bib
-You've used 3 entries,
+You've used 5 entries,
             2773 wiz_defined-function locations,
-            617 strings with 5593 characters,
-and the built_in function-call counts, 1369 in all, are:
-= -- 123
-> -- 81
-< -- 1
-+ -- 27
-- -- 24
-* -- 118
-:= -- 215
-add.period$ -- 13
-call.type$ -- 3
-change.case$ -- 17
-chr.to.int$ -- 3
-cite$ -- 6
-duplicate$ -- 52
-empty$ -- 107
-format.name$ -- 29
-if$ -- 280
+            627 strings with 6006 characters,
+and the built_in function-call counts, 2032 in all, are:
+= -- 181
+> -- 112
+< -- 3
++ -- 38
+- -- 33
+* -- 160
+:= -- 314
+add.period$ -- 19
+call.type$ -- 5
+change.case$ -- 26
+chr.to.int$ -- 5
+cite$ -- 10
+duplicate$ -- 82
+empty$ -- 171
+format.name$ -- 42
+if$ -- 422
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 1
-newline$ -- 27
-num.names$ -- 12
-pop$ -- 34
+newline$ -- 37
+num.names$ -- 20
+pop$ -- 59
 preamble$ -- 1
-purify$ -- 14
+purify$ -- 21
 quote$ -- 0
-skip$ -- 46
+skip$ -- 75
 stack$ -- 0
-substring$ -- 31
-swap$ -- 6
+substring$ -- 35
+swap$ -- 10
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 33
+type$ -- 55
 warning$ -- 0
-while$ -- 11
+while$ -- 17
 width$ -- 0
-write$ -- 52
+write$ -- 76

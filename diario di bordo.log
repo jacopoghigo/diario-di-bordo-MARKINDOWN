@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.25)  26 NOV 2025 16:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.25)  15 DEC 2025 11:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -447,15 +447,15 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(74.71704pt, 448.07378pt, 74.71706pt)
-* v-part:(T,H,B)=(92.30072pt, 614.295pt, 138.45113pt)
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(34.14322pt, 776.7604pt, 34.14322pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=448.07378pt
-* \textheight=614.295pt
-* \oddsidemargin=2.44705pt
-* \evensidemargin=2.44705pt
-* \topmargin=-16.96927pt
+* \textwidth=483.69687pt
+* \textheight=776.7604pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-75.12677pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -483,11 +483,11 @@ Package hyperref Info: Link coloring ON on input line 55.
 [1
 
 {C:/Users/jacop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (diario di bordo.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
  (C:\Users\jacop\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
  (C:\Users\jacop\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
@@ -504,48 +504,214 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
                    \relax 
 l.74 \newpage
               [1]
-<Images/ncc_by_worker_type.png, id=44, 1799.523pt x 1108.6218pt>
-File: Images/ncc_by_worker_type.png Graphic file (type png)
-<use Images/ncc_by_worker_type.png>
-Package pdftex.def Info: Images/ncc_by_worker_type.png  used on input line 81.
-(pdftex.def)             Requested size: 448.07378pt x 276.0383pt.
-
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.101 
-       [2 <./Images/ncc_by_worker_type.png>]
+l.102 \newpage
+               [2]
 
 [3]
 
 [4]
+<Unenforceability/unenforceability.png, id=76, 1181.41376pt x 859.21pt>
+File: Unenforceability/unenforceability.png Graphic file (type png)
+<use Unenforceability/unenforceability.png>
+Package pdftex.def Info: Unenforceability/unenforceability.png  used on input line 231.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+<Unenforceability/unenforceability_by_gender.png, id=77, 1181.41376pt x 859.21pt>
+File: Unenforceability/unenforceability_by_gender.png Graphic file (type png)
+<use Unenforceability/unenforceability_by_gender.png>
+Package pdftex.def Info: Unenforceability/unenforceability_by_gender.png  used on input line 237.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+<Unenforceability/unenforceability_by_education.png, id=78, 1181.41376pt x 859.21pt>
+File: Unenforceability/unenforceability_by_education.png Graphic file (type png)
+<use Unenforceability/unenforceability_by_education.png>
+Package pdftex.def Info: Unenforceability/unenforceability_by_education.png  used on input line 243.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
 
-[5]
 
-[6] (diario di bordo.bbl)
+[5 <./Unenforceability/unenforceability.png (PNG copy)> <./Unenforceability/unenforceability_by_gender.png (PNG copy)>]
+<Unenforceability/unenforceability_by_age_cat.png, id=86, 1181.41376pt x 859.21pt>
+File: Unenforceability/unenforceability_by_age_cat.png Graphic file (type png)
+<use Unenforceability/unenforceability_by_age_cat.png>
+Package pdftex.def Info: Unenforceability/unenforceability_by_age_cat.png  used on input line 249.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+<Unenforceability/unenforceability_by_sector.png, id=87, 1181.41376pt x 859.21pt>
+File: Unenforceability/unenforceability_by_sector.png Graphic file (type png)
+<use Unenforceability/unenforceability_by_sector.png>
+Package pdftex.def Info: Unenforceability/unenforceability_by_sector.png  used on input line 255.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
 
-[7] (diario di bordo.aux)
+
+[6 <./Unenforceability/unenforceability_by_education.png (PNG copy)> <./Unenforceability/unenforceability_by_age_cat.png (PNG copy)>]
+<Unenforceability/unenforceability_by_firm_size.png, id=94, 1181.41376pt x 859.21pt>
+File: Unenforceability/unenforceability_by_firm_size.png Graphic file (type png)
+<use Unenforceability/unenforceability_by_firm_size.png>
+Package pdftex.def Info: Unenforceability/unenforceability_by_firm_size.png  used on input line 261.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+<Unenforceability/Invalidity_of_Unenforceability_Parameters.png, id=95, 1181.41376pt x 859.21pt>
+File: Unenforceability/Invalidity_of_Unenforceability_Parameters.png Graphic file (type png)
+<use Unenforceability/Invalidity_of_Unenforceability_Parameters.png>
+Package pdftex.def Info: Unenforceability/Invalidity_of_Unenforceability_Parameters.png  used on input line 267.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+
+
+[7 <./Unenforceability/unenforceability_by_sector.png (PNG copy)> <./Unenforceability/unenforceability_by_firm_size.png (PNG copy)>]
+<Unenforceability/Q18.png, id=102, 1181.41376pt x 859.21pt>
+File: Unenforceability/Q18.png Graphic file (type png)
+<use Unenforceability/Q18.png>
+Package pdftex.def Info: Unenforceability/Q18.png  used on input line 274.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+<Unenforceability/Q19_1_Employees without NCCs.png, id=103, 1181.41376pt x 859.21pt>
+File: Unenforceability/Q19_1_Employees without NCCs.png Graphic file (type png)
+<use Unenforceability/Q19_1_Employees without NCCs.png>
+Package pdftex.def Info: Unenforceability/Q19_1_Employees without NCCs.png  used on input line 281.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+<Unenforceability/Q19_1_Employees with UNENFORCEABLE NCCs.png, id=104, 1181.41376pt x 859.21pt>
+File: Unenforceability/Q19_1_Employees with UNENFORCEABLE NCCs.png Graphic file (type png)
+<use Unenforceability/Q19_1_Employees with UNENFORCEABLE NCCs.png>
+Package pdftex.def Info: Unenforceability/Q19_1_Employees with UNENFORCEABLE NCCs.png  used on input line 286.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+
+
+[8 <./Unenforceability/Invalidity_of_Unenforceability_Parameters.png (PNG copy)> <./Unenforceability/Q18.png (PNG copy)>]
+<Unenforceability/Q19_1_Employees with NCCs.png, id=111, 1181.41376pt x 859.21pt>
+File: Unenforceability/Q19_1_Employees with NCCs.png Graphic file (type png)
+<use Unenforceability/Q19_1_Employees with NCCs.png>
+Package pdftex.def Info: Unenforceability/Q19_1_Employees with NCCs.png  used on input line 291.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+<Unenforceability/Q19_1_Employees with ENFORCEABLE NCCs.png, id=112, 1181.41376pt x 859.21pt>
+File: Unenforceability/Q19_1_Employees with ENFORCEABLE NCCs.png Graphic file (type png)
+<use Unenforceability/Q19_1_Employees with ENFORCEABLE NCCs.png>
+Package pdftex.def Info: Unenforceability/Q19_1_Employees with ENFORCEABLE NCCs.png  used on input line 296.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+
+
+[9 <./Unenforceability/Q19_1_Employees without NCCs.png (PNG copy)> <./Unenforceability/Q19_1_Employees with UNENFORCEABLE NCCs.png (PNG copy)>]
+<Unenforceability/Q19_2_Employees without NCCs.png, id=119, 1181.41376pt x 859.21pt>
+File: Unenforceability/Q19_2_Employees without NCCs.png Graphic file (type png)
+<use Unenforceability/Q19_2_Employees without NCCs.png>
+Package pdftex.def Info: Unenforceability/Q19_2_Employees without NCCs.png  used on input line 301.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+<Unenforceability/Q19_2_Employees with UNENFORCEABLE NCCs.png, id=120, 1181.41376pt x 859.21pt>
+File: Unenforceability/Q19_2_Employees with UNENFORCEABLE NCCs.png Graphic file (type png)
+<use Unenforceability/Q19_2_Employees with UNENFORCEABLE NCCs.png>
+Package pdftex.def Info: Unenforceability/Q19_2_Employees with UNENFORCEABLE NCCs.png  used on input line 306.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+
+
+[10 <./Unenforceability/Q19_1_Employees with NCCs.png (PNG copy)> <./Unenforceability/Q19_1_Employees with ENFORCEABLE NCCs.png (PNG copy)>]
+<Unenforceability/Q19_2_Employees with NCCs.png, id=127, 1181.41376pt x 859.21pt>
+File: Unenforceability/Q19_2_Employees with NCCs.png Graphic file (type png)
+<use Unenforceability/Q19_2_Employees with NCCs.png>
+Package pdftex.def Info: Unenforceability/Q19_2_Employees with NCCs.png  used on input line 311.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+<Unenforceability/Q19_2_Employees with ENFORCEABLE NCCs.png, id=128, 1181.41376pt x 859.21pt>
+File: Unenforceability/Q19_2_Employees with ENFORCEABLE NCCs.png Graphic file (type png)
+<use Unenforceability/Q19_2_Employees with ENFORCEABLE NCCs.png>
+Package pdftex.def Info: Unenforceability/Q19_2_Employees with ENFORCEABLE NCCs.png  used on input line 316.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+
+
+[11 <./Unenforceability/Q19_2_Employees without NCCs.png (PNG copy)> <./Unenforceability/Q19_2_Employees with UNENFORCEABLE NCCs.png (PNG copy)>]
+<Unenforceability/Q38_Employees with UNENFORCEABLE NCCs.png, id=136, 1181.41376pt x 859.21pt>
+File: Unenforceability/Q38_Employees with UNENFORCEABLE NCCs.png Graphic file (type png)
+<use Unenforceability/Q38_Employees with UNENFORCEABLE NCCs.png>
+Package pdftex.def Info: Unenforceability/Q38_Employees with UNENFORCEABLE NCCs.png  used on input line 323.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+<Unenforceability/Q38_Employees with NCCs.png, id=137, 1181.41376pt x 859.21pt>
+File: Unenforceability/Q38_Employees with NCCs.png Graphic file (type png)
+<use Unenforceability/Q38_Employees with NCCs.png>
+Package pdftex.def Info: Unenforceability/Q38_Employees with NCCs.png  used on input line 328.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+
+
+[12 <./Unenforceability/Q19_2_Employees with NCCs.png (PNG copy)> <./Unenforceability/Q19_2_Employees with ENFORCEABLE NCCs.png (PNG copy)>]
+<Unenforceability/Q38_Employees with ENFORCEABLE NCCs.png, id=144, 1181.41376pt x 859.21pt>
+File: Unenforceability/Q38_Employees with ENFORCEABLE NCCs.png Graphic file (type png)
+<use Unenforceability/Q38_Employees with ENFORCEABLE NCCs.png>
+Package pdftex.def Info: Unenforceability/Q38_Employees with ENFORCEABLE NCCs.png  used on input line 333.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+<Unenforceability/Q38_Male Employees with NCCs.png, id=145, 1181.41376pt x 859.21pt>
+File: Unenforceability/Q38_Male Employees with NCCs.png Graphic file (type png)
+<use Unenforceability/Q38_Male Employees with NCCs.png>
+Package pdftex.def Info: Unenforceability/Q38_Male Employees with NCCs.png  used on input line 338.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+
+
+[13 <./Unenforceability/Q38_Employees with UNENFORCEABLE NCCs.png (PNG copy)> <./Unenforceability/Q38_Employees with NCCs.png (PNG copy)>]
+<Unenforceability/Q38_Female Employees with NCCs.png, id=152, 1181.41376pt x 859.21pt>
+File: Unenforceability/Q38_Female Employees with NCCs.png Graphic file (type png)
+<use Unenforceability/Q38_Female Employees with NCCs.png>
+Package pdftex.def Info: Unenforceability/Q38_Female Employees with NCCs.png  used on input line 343.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+
+
+[14 <./Unenforceability/Q38_Employees with ENFORCEABLE NCCs.png (PNG copy)> <./Unenforceability/Q38_Male Employees with NCCs.png (PNG copy)>]
+<Unenforceability/Q39_Employees with UNENFORCEABLE NCCs.png, id=159, 1181.41376pt x 859.21pt>
+File: Unenforceability/Q39_Employees with UNENFORCEABLE NCCs.png Graphic file (type png)
+<use Unenforceability/Q39_Employees with UNENFORCEABLE NCCs.png>
+Package pdftex.def Info: Unenforceability/Q39_Employees with UNENFORCEABLE NCCs.png  used on input line 350.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+<Unenforceability/Q39_Employees with NCCs.png, id=160, 1181.41376pt x 859.21pt>
+File: Unenforceability/Q39_Employees with NCCs.png Graphic file (type png)
+<use Unenforceability/Q39_Employees with NCCs.png>
+Package pdftex.def Info: Unenforceability/Q39_Employees with NCCs.png  used on input line 355.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+<Unenforceability/Q39_Employees with ENFORCEABLE NCCs.png, id=161, 1181.41376pt x 859.21pt>
+File: Unenforceability/Q39_Employees with ENFORCEABLE NCCs.png Graphic file (type png)
+<use Unenforceability/Q39_Employees with ENFORCEABLE NCCs.png>
+Package pdftex.def Info: Unenforceability/Q39_Employees with ENFORCEABLE NCCs.png  used on input line 360.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+
+
+[15 <./Unenforceability/Q38_Female Employees with NCCs.png (PNG copy)> <./Unenforceability/Q39_Employees with UNENFORCEABLE NCCs.png (PNG copy)>]
+<Unenforceability/Q39_Male Employees with NCCs.png, id=168, 1181.41376pt x 859.21pt>
+File: Unenforceability/Q39_Male Employees with NCCs.png Graphic file (type png)
+<use Unenforceability/Q39_Male Employees with NCCs.png>
+Package pdftex.def Info: Unenforceability/Q39_Male Employees with NCCs.png  used on input line 365.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+<Unenforceability/Q39_Female Employees with NCCs.png, id=169, 1181.41376pt x 859.21pt>
+File: Unenforceability/Q39_Female Employees with NCCs.png Graphic file (type png)
+<use Unenforceability/Q39_Female Employees with NCCs.png>
+Package pdftex.def Info: Unenforceability/Q39_Female Employees with NCCs.png  used on input line 370.
+(pdftex.def)             Requested size: 435.32422pt x 316.59167pt.
+
+
+[16 <./Unenforceability/Q39_Employees with NCCs.png (PNG copy)> <./Unenforceability/Q39_Employees with ENFORCEABLE NCCs.png (PNG copy)>]
+
+[17 <./Unenforceability/Q39_Male Employees with NCCs.png (PNG copy)> <./Unenforceability/Q39_Female Employees with NCCs.png (PNG copy)>]
+<Images/ncc_by_worker_type.png, id=183, 1799.523pt x 1108.6218pt>
+File: Images/ncc_by_worker_type.png Graphic file (type png)
+<use Images/ncc_by_worker_type.png>
+Package pdftex.def Info: Images/ncc_by_worker_type.png  used on input line 403.
+(pdftex.def)             Requested size: 483.69687pt x 297.97859pt.
+
+
+[18 <./Images/ncc_by_worker_type.png>] (diario di bordo.bbl)
+
+[19] (diario di bordo.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
  ***********
 Package rerunfilecheck Info: File `"diario di bordo".out' has not changed.
-(rerunfilecheck)             Checksum: 6C976145085B59F5AD174751DD27FEE0;856.
+(rerunfilecheck)             Checksum: 493DCE82C125E2FF99AB93909483243E;973.
  ) 
 Here is how much of TeX's memory you used:
- 12275 strings out of 468130
- 195031 string characters out of 5430633
- 623941 words of memory out of 5000000
- 40686 multiletter control sequences out of 15000+600000
+ 12505 strings out of 468130
+ 205992 string characters out of 5430633
+ 627053 words of memory out of 5000000
+ 40875 multiletter control sequences out of 15000+600000
  633846 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,6n,95p,1161b,510s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,6n,95p,1161b,500s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\jacop\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "diario di bordo.pdf" (9 pages, 234298 bytes).
+Output written on "diario di bordo.pdf" (21 pages, 2004785 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 245 PDF objects out of 1000 (max. 8388607)
+ 60 named destinations out of 1000 (max. 500000)
+ 184 words of extra memory for PDF output out of 10000 (max. 10000000)
 
