@@ -1,4 +1,4 @@
-\begin{thebibliography}{5}
+\begin{thebibliography}{6}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -11,6 +11,12 @@ Tito Boeri, Andrea Garnero, and Lorenzo~G. Luisetto.
 \newblock Non-{Compete} {Agreements} in a {Rigid} {Labour} {Market}: {The}
   {Case} of {Italy}, March 2023.
 \newblock URL \url{https://papers.ssrn.com/abstract=4396108}.
+
+\bibitem[Cowgill et~al.(2024)Cowgill, Freiberg, and Starr]{cowgill_clause_2024}
+Bo~Cowgill, Brandon Freiberg, and Evan Starr.
+\newblock Clause and {Effect}: {Theory} and {Field} {Experimental} {Evidence}
+  on {Noncompete} {Clauses}, January 2024.
+\newblock URL \url{https://papers.ssrn.com/abstract=5012370}.
 
 \bibitem[Lipsitz and Starr(2020)]{lipsitz_low-wage_2020}
 Michael Lipsitz and Evan Starr.
