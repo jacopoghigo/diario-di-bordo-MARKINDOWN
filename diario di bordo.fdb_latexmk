@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex diario di bordo"] 1765890450.45421 "diario di bordo.aux" "diario di bordo.bbl" "diario di bordo" 1765890453.5285 0
+["bibtex diario di bordo"] 1766073578.29143 "diario di bordo.aux" "diario di bordo.bbl" "diario di bordo" 1766073580.3536 0
   "./OECD_ERC_Survey.bib" 1765890365 32433 044f707e0ebaf8e2e7817e27775a091a ""
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/bibtex/bst/natbib/plainnat.bst" 1284455456 26816 ffe5423d2019860bad9f54bc402fac15 ""
-  "diario di bordo.aux" 1765890452 1801 c503d0d7ee14337e0af9c1384ed89bf7 "pdflatex"
+  "diario di bordo.aux" 1766073579 1801 c503d0d7ee14337e0af9c1384ed89bf7 "pdflatex"
   (generated)
   "diario di bordo.bbl"
   "diario di bordo.blg"
   (rewritten before read)
-["pdflatex"] 1765890450.73927 "c:/Users/jacop/Dropbox/ERC-MONOPSONIES/overleaf/diario-di-bordo---MARKINDOWN/diario di bordo.tex" "diario di bordo.pdf" "diario di bordo" 1765890453.52918 0
+["pdflatex"] 1766073578.59373 "c:/Users/jacop/Dropbox/ERC-MONOPSONIES/overleaf/diario-di-bordo---MARKINDOWN/diario di bordo.tex" "diario di bordo.pdf" "diario di bordo" 1766073580.35426 0
   "C:/Users/jacop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1763398866 82845 61cd0b62b4b3ff8abe9a94ac0f89d652 ""
   "C:/Users/jacop/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1762250722 12668 0d293007c707e241d4fe2654d57717ab ""
   "C:/Users/jacop/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1758806476 13286966 9b1e14b04ff872186c0241c4c8382aff ""
@@ -66,6 +66,7 @@
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/auxhook/auxhook.sty" 1576538732 3935 57aa3c3e203a5c2effb4d2bd2efbc323 ""
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1749467999 20144 b966087dda3b194755eb460d32e2ef75 ""
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/base/size11.clo" 1749467999 8464 f339f4d5391fbe0425b2d94c90e6819e ""
+  "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/booktabs/booktabs.sty" 1579093635 6253 f1cb470c9199e7110a27851508ed7a5c ""
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1623003186 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty" 1739279216 46850 d87daedc2abdc653769a6f1067849fe0 ""
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/float/float.sty" 1469023953 6916 16d2656a1984957e674b149555f1ea1d ""
@@ -103,17 +104,18 @@
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1751104012 9684 a33a14b82ce60d6e77cb9be689d79ee6 ""
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/setspace/setspace.sty" 1670403145 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/titling/titling.sty" 1252048308 7358 95ac619994bd30d405a74f3eca431c84 ""
+  "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1749468414 15698 f5f20b24886bb50156054c53e19b13fd ""
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "Images/ncc_by_worker_type.png" 1761775420 153978 914a62f8193318e036e88842921dbfb4 ""
-  "c:/Users/jacop/Dropbox/ERC-MONOPSONIES/overleaf/diario-di-bordo---MARKINDOWN/diario di bordo.tex" 1765890452 9866 faae4c098cc997458a952132561fc1ca ""
-  "diario di bordo.aux" 1765890452 1801 c503d0d7ee14337e0af9c1384ed89bf7 "pdflatex"
-  "diario di bordo.bbl" 1765890450 2198 b3b32679c3f506ced3d1c9dada714ed3 "bibtex diario di bordo"
-  "diario di bordo.out" 1765890452 856 d3d9098473751555eb2f6e8eaf0a6634 "pdflatex"
-  "diario di bordo.tex" 1765890452 9866 faae4c098cc997458a952132561fc1ca ""
-  "diario di bordo.toc" 1765890452 416 6c3da7f5d373ef7c9cef8967627eeb8d "pdflatex"
+  "c:/Users/jacop/Dropbox/ERC-MONOPSONIES/overleaf/diario-di-bordo---MARKINDOWN/diario di bordo.tex" 1766073575 9949 9e1aa9b6140bf92c7064285fdb04d2ad ""
+  "diario di bordo.aux" 1766073579 1801 c503d0d7ee14337e0af9c1384ed89bf7 "pdflatex"
+  "diario di bordo.bbl" 1766073578 2198 b3b32679c3f506ced3d1c9dada714ed3 "bibtex diario di bordo"
+  "diario di bordo.out" 1766073579 856 d3d9098473751555eb2f6e8eaf0a6634 "pdflatex"
+  "diario di bordo.tex" 1766073575 9949 9e1aa9b6140bf92c7064285fdb04d2ad ""
+  "diario di bordo.toc" 1766073579 416 6c3da7f5d373ef7c9cef8967627eeb8d "pdflatex"
   (generated)
   "diario di bordo.aux"
   "diario di bordo.log"
